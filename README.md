@@ -7,7 +7,7 @@ I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve proble
 
 # 🤝Connect with me:
 ![Instagram](https://img.shields.io/badge/FlavioMarix-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/%3Cnotro#0001%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 - 💬 if you have any questions, please contact me.
 
 # 🏆I'm currently workin on:
@@ -15,7 +15,7 @@ I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve proble
 - DaringTicket (private plugin)
 - My Java, Kotlin, CPP, C# skills
 
-#🔔I'm currently learning
+# 🔔I'm currently learning
 - MySQL API's
 - Bukkit API's
 - JS API's
