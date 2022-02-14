@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm xNotro 👋</h1>
-<h3 align="center">I'm a Dev💻, Gamer🎮, and bad Designer🎨</h3>
+<h3 align="center">Hi there, I'm xNotro 👋</h1>
+<h1 align="center">I'm a Dev💻, Gamer🎮, and bad Designer🎨</h3>
 
 
 I love developing random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
