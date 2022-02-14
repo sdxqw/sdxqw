@@ -3,7 +3,7 @@ Hi there, I'm xNotro 👋
 I'm a Dev💻, Gamer🎮, and bad Designer🎨
 </p>
 
-I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
+I love developing random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
 
 # 🤝Connect with me:
 [![Instagram](https://img.shields.io/badge/FlavioMarix-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/flaviomarix/)
