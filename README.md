@@ -1,5 +1,5 @@
 <p align=”center”>
-Hi there, I'm ![xNotro](https://github.com/xNotro) 👋
+Hi there, I'm [![xNotro](https://github.com/xNotro)] 👋
 I'm a Dev💻, Gamer🎮, and bad Designer🎨
 </p>
 
