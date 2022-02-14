@@ -35,6 +35,6 @@ I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve proble
 
 # ✨Github Stats
 ![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=xnotro&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnotro&layout=compact)](https://github.com/xnotro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnotro&layout=compact&theme=radical)](https://github.com/xnotro)
 
 
