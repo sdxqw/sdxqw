@@ -1,6 +1,7 @@
-
+<p align="center">
 ### Hi there, I'm xNotro 👋
 # I'm a Dev💻, Gamer🎮, and bad Designer🎨
+</p>
 
 
 I love developing random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
