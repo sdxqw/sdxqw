@@ -1,6 +1,6 @@
 <p align=”center”>
-### Hi there, I'm ![xNotro](https://github.com/xNotro) 👋
-# I'm a Dev💻, Gamer🎮, and bad Designer🎨
+Hi there, I'm ![xNotro](https://github.com/xNotro) 👋
+I'm a Dev💻, Gamer🎮, and bad Designer🎨
 </p>
 
 I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
