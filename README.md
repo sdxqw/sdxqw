@@ -5,12 +5,12 @@
 
 I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
 
-#🤝Connect with me:
+# 🤝Connect with me:
 ![Instagram](https://img.shields.io/badge/FlavioMarix-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3Cnotro#0001%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 - 💬 if you have any questions, please contact me.
 
-#🏆I'm currently workin on:
+# 🏆I'm currently workin on:
 - Random projects
 - DaringTicket (private plugin)
 - My Java, Kotlin, CPP, C# skills
@@ -21,7 +21,7 @@ I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve proble
 - JS API's
 - Discord API's
 
-#🔎Technical Skills
+# 🔎Technical Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -33,7 +33,7 @@ I love devoloping random things in Java, CPP, C# and Kotlin. I hate solve proble
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-#✨Github Stats
+# ✨Github Stats
 ![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=xnotro&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnotro&layout=compact)](https://github.com/xnotro)
 
