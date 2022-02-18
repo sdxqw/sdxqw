@@ -11,7 +11,7 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 
 # 🏆I'm currently workin on
 - Random projects
-- DaringTicket (private plugin)
+- PlayerInfo
 - My Java, Kotlin, CPP, C# skills
 
 # 🔔I'm currently learning
