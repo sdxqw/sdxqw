@@ -15,9 +15,9 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 - My Java, Kotlin, CPP, C# skills
 
 # 🔔I'm currently learning
-- ![MySQL]MySQL API's(https://www.mysql.com/it/)
-- ![Bukkit]Bukkit API's(https://hub.spigotmc.org/javadocs/spigot/index.html?overview-summary.html)
-- ![DiscordJS]Discord API's(https://discord.js.org/#/)
+- [![MySQL]MySQL API's(https://www.mysql.com/it/)]
+- [![Bukkit]Bukkit API's(https://hub.spigotmc.org/javadocs/spigot/index.html?overview-summary.html)]
+- [![DiscordJS]Discord API's(https://discord.js.org/#/)]
 
 # 🔎Technical Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
