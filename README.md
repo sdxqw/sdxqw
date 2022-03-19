@@ -33,7 +33,7 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 
 # ✨Github Stats
 
-![github](https://user-images.githubusercontent.com/94248011/159117361-df891114-3ad5-4747-9805-d09d33bf0979.png)
+![github](https://user-images.githubusercontent.com/94248011/159117395-50149796-71e6-410b-80f9-c02c67315552.png)
 
 ![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=xnotro&show_icons=true&theme=radical)
 
