@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1200" height="160" src="https://user-images.githubusercontent.com/94248011/159117446-d89b3879-b16e-4077-b889-4df777057d2c.png">
+<img width="1200" height="170" src="https://user-images.githubusercontent.com/94248011/159117446-d89b3879-b16e-4077-b889-4df777057d2c.png">
 </p>
 
 <h3 align="center">Hi there, I'm xNotro 👋</h1>
