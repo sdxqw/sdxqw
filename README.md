@@ -32,6 +32,9 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 # ✨Github Stats
+
+![github](https://user-images.githubusercontent.com/94248011/159117332-d9e9aad4-b8f3-49c9-a6b6-85426df315fe.png)
+
 ![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=xnotro&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnotro&layout=compact&theme=radical)](https://github.com/xnotro)
