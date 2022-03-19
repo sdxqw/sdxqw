@@ -1,6 +1,9 @@
+<p align="center">
+<img width="800" height="170" src="https://user-images.githubusercontent.com/94248011/159117446-d89b3879-b16e-4077-b889-4df777057d2c.png">
+</p>
+
 <h3 align="center">Hi there, I'm xNotro 👋</h1>
 <h1 align="center">I'm a Dev💻, Gamer🎮, and bad Designer🎨</h3>
-
 
 I love developing random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
 
@@ -33,13 +36,8 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 
 # ✨Github Stats
 
-<p align="center">
-<img width="800" height="170" src="https://user-images.githubusercontent.com/94248011/159117446-d89b3879-b16e-4077-b889-4df777057d2c.png">
-</p>
-
-<p align="center">
 ![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=xnotro&show_icons=true&theme=radical)
-</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnotro&layout=compact&theme=radical)](https://github.com/xnotro)
   
 
