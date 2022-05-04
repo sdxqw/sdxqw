@@ -32,7 +32,7 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 
 # ✨Github Stats
 
-![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=sdxqw&show_icons=true&theme=radical)
+![sdxqw Github Stats](https://github-readme-stats.vercel.app/api?username=sdxqw&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdxqw&layout=compact&theme=radical)](https://github.com/sdxqw)
   
