@@ -2,13 +2,13 @@
 <img width="1200" height="180" src="https://user-images.githubusercontent.com/94248011/159117446-d89b3879-b16e-4077-b889-4df777057d2c.png">
 </p>
 
-<h3 align="center">Hi there, I'm xNotro 👋</h1>
+<h3 align="center">Hi there, I'm sdxqw 👋</h1>
 <h1 align="center">I'm a Dev💻, Gamer🎮, and bad Designer🎨</h3>
 
 I love developing random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
 
 # 🤝Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/notroflavio/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sdxqw_/)
 [![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/891245897659347004)
 - 💬 if you have any questions, please contact me.
 
@@ -36,9 +36,9 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 
 # ✨Github Stats
 
-![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=xnotro&show_icons=true&theme=radical)
+![xNotro Github Stats](https://github-readme-stats.vercel.app/api?username=sdxqw&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnotro&layout=compact&theme=radical)](https://github.com/xnotro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdxqw&layout=compact&theme=radical)](https://github.com/sdxqw)
   
 
 
