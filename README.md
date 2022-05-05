@@ -8,9 +8,11 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 [![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/891245897659347004)
 - 💬 if you have any questions, please contact me.
 
-# 🏆I'm currently workin on
+# 🏆I'm currently working on
 - Random projects
-- SetHome
+- ForgeMixins
+- ForgeTemplate
+- ClientTweaker
 - My Java, Kotlin, CPP, C# skills
 
 # 🔔I'm currently learning
