@@ -13,6 +13,7 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 - ForgeMixins
 - ForgeTemplate
 - ClientTweaker
+- <a href="https://discord.gg/zpx5CmhCbW">Rebel Client</a> 
 - My Java, Kotlin, CPP, C# skills
 
 # 🔔I'm currently learning
