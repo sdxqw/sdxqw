@@ -14,6 +14,7 @@ I love developing random things in Java, CPP, C# and Kotlin. I hate solve proble
 - ForgeTemplate
 - ClientTweaker
 - <a href="https://discord.gg/zpx5CmhCbW">Rebel Client</a> 
+- <a href="https://discord.gg/nYqXvGPh3F">Sea Client</a> 
 - My Java, Kotlin, CPP, C# skills
 
 # 🔔I'm currently learning
