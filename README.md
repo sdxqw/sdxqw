@@ -9,7 +9,7 @@ I love developing random things in Java and Kotlin.
 
 # 🏆I'm currently working on
 - Minecraft Projects
-- My Java, Kotlin.
+- My Java, Kotlin skills.
 
 # 🔔I'm currently learning
 - Java
