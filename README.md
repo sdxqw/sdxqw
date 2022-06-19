@@ -1,26 +1,18 @@
 <h3 align="center">Hi there, I'm sdxqw 👋</h1>
 <h1 align="center">I'm a Dev💻, Gamer🎮, and bad Designer🎨</h3>
 
-I love developing random things in Java, CPP, C# and Kotlin. I hate solve problems especially when coding.
+I love developing random things in Java and Kotlin.
 
 # 🤝Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sdxqw_/)
 [![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/891245897659347004)
 - 💬 if you have any questions, please contact me.
 
 # 🏆I'm currently working on
-- Random projects
-- ForgeMixins
-- ForgeTemplate
-- ClientTweaker
-- <a href="https://discord.gg/zpx5CmhCbW">Rebel Client</a> 
-- <a href="https://discord.gg/nYqXvGPh3F">Sea Client</a> 
-- My Java, Kotlin, CPP, C# skills
+- Minecraft Projects
+- My Java, Kotlin.
 
 # 🔔I'm currently learning
-- <a href="https://www.mysql.com/">MySQL API's</a> 
-- <a href="https://hub.spigotmc.org/javadocs/spigot/index.html">Bukkit API's</a> 
-- <a href="https://discord.js.org/#/">Discord API's</a> 
+- Java
 
 # 🔎Technical Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
