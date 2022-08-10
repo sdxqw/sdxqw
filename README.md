@@ -2,6 +2,7 @@
 <h1 align="center">I'm a Dev💻, Gamer🎮, and bad Designer🎨</h3>
 
 I am 15yo guys that know really good java, I'm from italy with a really bad wifi, i love make stuff in java.
+4 months java experience.
 
 # 🤝Connect with me
 [![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/891245897659347004)
