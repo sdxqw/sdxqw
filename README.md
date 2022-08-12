@@ -2,7 +2,7 @@
 <h1 align="center">I'm a Dev💻, Gamer🎮, and bad Designer🎨</h3>
 
 I am 15yo guys that know really good java, I'm from italy with a really bad wifi, i love make stuff in java.
-4 months java experience.
+Time: [![wakatime](https://wakatime.com/badge/user/370f5060-438e-4f81-99ce-6b57f09e6ae5.svg)](https://wakatime.com/@370f5060-438e-4f81-99ce-6b57f09e6ae5)
 
 # 🤝Connect with me
 [![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/891245897659347004)
@@ -33,7 +33,7 @@ I am 15yo guys that know really good java, I'm from italy with a really bad wifi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdxqw&layout=compact&theme=radical)](https://github.com/sdxqw)
 
-[![wakatime](https://wakatime.com/badge/user/370f5060-438e-4f81-99ce-6b57f09e6ae5.svg)](https://wakatime.com/@370f5060-438e-4f81-99ce-6b57f09e6ae5)
+
   
 
 
