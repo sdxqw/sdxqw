@@ -32,6 +32,8 @@ I am 15yo guys that know really good java, I'm from italy with a really bad wifi
 ![sdxqw Github Stats](https://github-readme-stats.vercel.app/api?username=sdxqw&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdxqw&layout=compact&theme=radical)](https://github.com/sdxqw)
+
+[![wakatime](https://wakatime.com/badge/user/370f5060-438e-4f81-99ce-6b57f09e6ae5.svg)](https://wakatime.com/@370f5060-438e-4f81-99ce-6b57f09e6ae5)
   
 
 
