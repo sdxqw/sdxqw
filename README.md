@@ -5,7 +5,6 @@
 # 🤝Connect with me
 
 [![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/891245897659347004)
-- 💬 if you have any questions, please contact me.
 
 # ✨Github Stats
 
